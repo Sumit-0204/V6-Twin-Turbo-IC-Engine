@@ -34,6 +34,6 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 Contact
 For questions or suggestions, please reach out at sumitnaskar950@gmail.com!
 
-![V6 Twin Turbo IC Engine](./project.png)
+![V6 Twin Turbo IC Engine](project.png)
 
 
