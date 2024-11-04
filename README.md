@@ -18,5 +18,5 @@ This repository features a comprehensive 3D model of a V6 twin-turbo internal co
 ## Usage
 This model is intended for educational purposes, mechanical design exploration, and engineering projects.
 
-![V6 Twin Turbo Engine](V6/engine_model.png)
+![V6 Twin Turbo Engine](engine_model.png)
 
